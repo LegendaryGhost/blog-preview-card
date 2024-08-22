@@ -202,7 +202,7 @@ body {
     color: var(--black);
 }
 
-@media screen and (max-height: 600px) {
+@media screen and (max-height: 630px) {
     .attribution {
         position: static;
     }

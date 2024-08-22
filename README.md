@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/blog-preview-component-using-flexbox-and-css-grid-e_4AU9DDnf)
+- Live Site URL: [click here](https://legendaryghost.github.io/blog-preview-card/)
 
 ## My process
 
